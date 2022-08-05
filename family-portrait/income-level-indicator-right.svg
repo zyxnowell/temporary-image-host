@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="550px" height="520px" viewBox="0 0 550 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>family-picture-LRG</title>
+    <defs>
+        <polygon id="path-1" points="0 0 10.2456 0 10.2456 6.712 0 6.712"></polygon>
+    </defs>
+    <g id="family-picture-LRG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(367.000000, 266.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M9.068,6.712 C5.457,5.837 0.053,4.942 0,4.934 L0.812,0 C1.041,0.038 6.452,0.933 10.246,1.853 L9.068,6.712 Z" id="Fill-1" fill="#FDC50E" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M8.9325,3.74 C8.8055,5.61 7.3875,7.036 5.7655,6.926 C4.1435,6.815 2.9325,5.21 3.0595,3.34 C3.1875,1.47 4.6055,0.043 6.2265,0.154 C7.8485,0.264 9.0595,1.87 8.9325,3.74" id="Fill-4" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
